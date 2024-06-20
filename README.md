@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐙 About Me:
 ¡Hola! Soy Gonzalo, Consultor BI y apasionado estudiante de Ciencia de Datos. Actualmente estoy cursando la Tecnicatura en Ciencia de Datos y perfeccionando mis habilidades en Machine Learning, Data Mining y Data Analytics. Tengo experiencia con herramientas como Power BI, Qlik Sense, Python y R.<br><br>Como consultor, ayudo a las empresas a tomar decisiones basadas en datos y a optimizar sus operaciones mediante visualizaciones y análisis de datos. Estoy continuamente ampliando mis conocimientos y experiencia, con el objetivo de contribuir al campo de la ciencia de datos.<br><br>Te invito a explorar mis repositorios donde comparto mis proyectos
 
 
