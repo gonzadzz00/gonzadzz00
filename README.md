@@ -12,8 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzadzz00&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
----
 [![](https://visitcount.itsvg.in/api?id=gonzadzz00&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
